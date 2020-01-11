@@ -1,0 +1,22 @@
+
+footer.site-footer {
+  background-color: rgb(255, 122, 0);
+  margin-top: auto;
+  padding: 15px 0 15px;
+
+  ul.social-icons {
+    display: flex;
+    padding: 0;
+    list-style: none;
+    justify-content: flex-end;
+    margin: 0;
+
+    li {
+      margin: 0 0 0 10px !important;
+    }
+  }
+
+  p.copyright-text {
+    margin: 0;
+  }
+}
